@@ -6,5 +6,5 @@
 
 最坑的就是训练部分了，我的妈，mask和label明明就相当于两个label。我他妈的服了，这怎么放模型里预测。
 
-生成数据集这部分，在https://github.com/yakamoz5/Uni 这人的代码上改动了以下。
+生成数据集这部分，在https://github.com/yakamoz5/Uni 这人的代码上改动了一下。
 他压根没想用到mask，所以在他的报告里直接说这xray不太行，但是换脸方法不是xray的啊，明明就是简单的faceswap。算个锤子的xray方法。
