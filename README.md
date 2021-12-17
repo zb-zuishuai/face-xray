@@ -12,14 +12,5 @@
 生成数据集这部分，在https://github.com/yakamoz5/Uni 这人的代码上改动了一下。
 他压根没想用到mask，所以在他的报告里直接说这xray不太行，但是换脸方法不是xray的啊，明明就是简单的faceswap。算个锤子的xray方法。
 
-数据集的文件夹需要这样创建
-dataset
---images
-----fake
-----fakemask
-----real
-----realmask
-----original
---landmarks
-----landmark_db.txt
+
 
