@@ -1,4 +1,6 @@
 # face-xray
+opencv-python           3.4.7.28
+高版本的cv2不兼容，不知道哪个版本开始的。。。
 我是用的celeba数据集，男女分开换脸的。
 
 首先要用shape_predictor_68_face_landmarks.dat获取每个人脸图片的68个特征点坐标。
