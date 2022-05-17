@@ -1,5 +1,7 @@
 # face-xray
-opencv-python           3.4.7.28
+这个版本可以用opencv-python           3.4.7.28
+
+
 高版本的cv2不兼容，不知道哪个版本开始的。。。
 
 
